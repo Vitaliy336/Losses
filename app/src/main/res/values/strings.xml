@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Losses</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="select_date">Select date</string>
+    <string name="day_number">Day #</string>
+
+    <string name="personnel_units">Personnel \nunits</string>
+    <string name="tanks">Tanks</string>
+    <string name="armoured_fighting_vehicles">Armoured \nfighting \nvehicles</string>
+    <string name="artillery_systems">Artillery \nsystems</string>
+    <string name="mlrs">MLRS</string>
+    <string name="aa_warfare_systems">Anti-aircraft \nwarfare \nsystems</string>
+    <string name="planes">Planes</string>
+    <string name="helicopters">Helicopters</string>
+    <string name="vehicles_fuel_tanks">Vehicles &amp; \nfuel \ntanks</string>
+    <string name="warships_cutters">Warships and \ncutters</string>
+    <string name="uav_systems">Drones</string>
+    <string name="special_military_equip">Special \nmilitary \nequipment</string>
+    <string name="atgm_srbm_systems">Ballistic \nmissile \nsystems</string>
+    <string name="cruise_missiles">Cruise \nmissiles"</string>
+
+    <string name="network_error">No network connection</string>
+    <string name="no_data_error">Data not found</string>
+    <string name="not_data_yet">No data yet</string>
+
+
+
+</resources>

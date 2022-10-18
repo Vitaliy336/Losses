@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#D7D7E4</color>
+    <color name="date_color">#FFFAFA</color>
+    <color name="splash_background">#202023</color>
+</resources>

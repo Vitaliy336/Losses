@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Losses</string>
+    <string name="next">Вперед</string>
+    <string name="previous">Назад</string>
+    <string name="select_date">Оберіть дату</string>
+    <string name="day_number">День #</string>
+
+    <string name="personnel_units">Особовий \nсклад</string>
+    <string name="tanks">Танки</string>
+    <string name="armoured_fighting_vehicles">Броньовані \nбойові \nмашини</string>
+    <string name="artillery_systems">Артилерійські \nсистеми</string>
+    <string name="mlrs">РСЗВ</string>
+    <string name="aa_warfare_systems">Системи \nпротиповітряної \nоборони</string>
+    <string name="planes">Літаки</string>
+    <string name="helicopters">Гелікоптери</string>
+    <string name="vehicles_fuel_tanks">Цистерни \nз паливом</string>
+    <string name="warships_cutters">Кораблі \nта \nкатери</string>
+    <string name="uav_systems">Безпілотники</string>
+    <string name="special_military_equip">Спец \nтехніка</string>
+    <string name="atgm_srbm_systems">Ракетні \nкомплекси</string>
+    <string name="cruise_missiles">Крилаті \nракети</string>
+
+    <string name="network_error">Відсутнє підключення до мережі</string>
+    <string name="no_data_error">Немає інформації</string>
+    <string name="not_data_yet">Інформація покищо відсутня</string>
+</resources>
